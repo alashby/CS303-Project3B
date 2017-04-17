@@ -146,14 +146,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Morse.cpp" />
+    <ClCompile Include="Morse_Code.cpp" />
     <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Binary_Search_Tree.h" />
-    <ClInclude Include="Binary_Tree.h" />
-    <ClInclude Include="BTNode.h" />
-    <ClInclude Include="Morse.h" />
+    <ClInclude Include="Morse_Code.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="morse.txt" />

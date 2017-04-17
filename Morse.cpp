@@ -10,8 +10,7 @@ Morse::Morse(ifstream& file) {
 		letter = line[0]; // first char of each line is the letter
 		// starting at root, traverse tree (vector) to find node (index) to place letter
 		for (int i = 1; i < line.size(); i++)
-		{
 			morse_list[line[0]] += line[i];
-		}
-	};
+	}
 }
+

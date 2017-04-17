@@ -1,4 +1,9 @@
 ﻿  Test.cpp
+  Morse_Code.cpp
+c:\users\al\documents\visual studio 2015\projects\cs303-project3b\cs303-project3b\morse_code.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\al\documents\visual studio 2015\projects\cs303-project3b\cs303-project3b\morse_code.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\al\documents\visual studio 2015\projects\cs303-project3b\cs303-project3b\morse_code.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\al\documents\visual studio 2015\projects\cs303-project3b\cs303-project3b\morse_code.cpp(91): warning C4018: '<=': signed/unsigned mismatch
   Morse.cpp
 c:\users\al\documents\visual studio 2015\projects\cs303-project3b\cs303-project3b\morse.cpp(12): warning C4018: '<': signed/unsigned mismatch
   Generating Code...
