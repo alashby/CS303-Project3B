@@ -150,6 +150,9 @@
     <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Binary_Search_Tree.h" />
+    <ClInclude Include="Binary_Tree.h" />
+    <ClInclude Include="BTNode.h" />
     <ClInclude Include="Morse.h" />
   </ItemGroup>
   <ItemGroup>

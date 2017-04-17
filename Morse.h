@@ -5,6 +5,9 @@
 #include <iostream>
 #include <vector>
 #include <fstream>
+#include <map>
+#include "Binary_Search_Tree.h"
+#include "Binary_Tree.h"
 
 using namespace std;
 
@@ -14,5 +17,5 @@ public:
 	//string encode(string msg) { return ""; }
 	//string decode(string msg) { return ""; }
 private:
-	vector<char> binary_tree;
+	map<char, string> morse_list;
 };

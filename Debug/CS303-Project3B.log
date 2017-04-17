@@ -1,4 +1,5 @@
-﻿  Morse.cpp
+﻿  Test.cpp
+  Morse.cpp
 c:\users\al\documents\visual studio 2015\projects\cs303-project3b\cs303-project3b\morse.cpp(12): warning C4018: '<': signed/unsigned mismatch
-c:\users\al\documents\visual studio 2015\projects\cs303-project3b\cs303-project3b\morse.cpp(19): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
   CS303-Project3B.vcxproj -> C:\Users\Al\documents\visual studio 2015\Projects\CS303-Project3B\Debug\CS303-Project3B.exe
