@@ -150,6 +150,7 @@
     <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ExpressionError.h" />
     <ClInclude Include="Morse_Code.h" />
   </ItemGroup>
   <ItemGroup>
